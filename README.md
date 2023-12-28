@@ -41,3 +41,12 @@ Through the implementation of this statistical solution approach, HardwareHub an
 4. **Statistically Driven Revenue Growth:** With the capability to access statistically significant insights, conduct profitability analysis, and statistically monitor performance, HardwareHub envisions achieving a statistically substantial revenue growth of at least 7% in the next quarter. The statistically driven decision-making facilitated by Power BI dashboards contributes to the statistical identification of growth opportunities and the implementation of statistically effective strategies.
 
 In summary, this statistical solution approach strategically leverages the capabilities of SQL and Power BI to provide a statistically robust data analysis and visualization solution, empowering HardwareHub to make statistically informed decisions and drive statistically significant revenue growth.
+
+
+**Visual Analytics**:
+Image1: Key Insights
+![image](https://github.com/Amlan-prog/Data-Driven-Growth-HardwareHub-s-Statistical-Transformation-with-SQL-Power-BI./assets/106246237/88e68869-e17b-476a-bdad-7aed128f9cd3)
+
+Image2: Profit Analysis
+![image](https://github.com/Amlan-prog/Data-Driven-Growth-HardwareHub-s-Statistical-Transformation-with-SQL-Power-BI./assets/106246237/1473f1e6-b146-4bbd-bfde-ded855757902)
+
